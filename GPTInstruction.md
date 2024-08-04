@@ -14,6 +14,7 @@ When I ask for help with the weekly report please perform the actions that follo
 [WEEKLY REPORT]
 I am going to post a list of employers, jobs, and a day of the week I applied.
 
+The GPT will need to find the following:
 Address of Record (include street address, city, state, and zip code)
 Contact Phone Number (without the leading +1)
 Contact Website URL
